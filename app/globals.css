@@ -1,0 +1,8 @@
+:root {
+  --navbar-bg-color: #000; /* Default background color */
+}
+
+/* Apply the CSS variable to the Navbar */
+.navbar {
+  background-color: var(--navbar-bg-color);
+}
